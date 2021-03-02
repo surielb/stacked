@@ -13,7 +13,7 @@ dependencies:
   provider: ^4.0.1
   observable_ish: ^2.1.4
   meta: ^1.1.8
-  get_it: ^5.0.6
+  get_it: ^6.0.0
 
 dev_dependencies:
   flutter_test:
